@@ -65,7 +65,8 @@ This will interpolate the format string with the value of methods `name.lastName
 
 ### API Methods
 
-|---|---|
+| `namespace` | `methods` |
+| ----------- | --------- |
 | `address` | `zipCode` `city` `cityPrefix` `citySuffix` `streetName` `streetAddress` `streetSuffix` `streetPrefix` `secondaryAddress` `county` `country` `countryCode` `state` `stateAbbr` `latitude` `longitude` |
 | `commerce` | `color` `department` `productName` `price` `productAdjective` `productMaterial` `product` |
 | `company` | `suffixes` `companyName` `companySuffix` `catchPhrase` `bs` `catchPhraseAdjective` `catchPhraseDescriptor` `catchPhraseNoun` `bsAdjective` `bsBuzz` `bsNoun` |
@@ -82,7 +83,6 @@ This will interpolate the format string with the value of methods `name.lastName
 | `phone` | `phoneNumber` `phoneNumberFormat` `phoneFormats` |
 | `random` | `number` `arrayElement` `objectElement` `uuid` `boolean` `word` `words` `image` `locale` `alphaNumeric` |
 | `system` | `fileName` `commonFileName` `mimeType` `commonFileType` `commonFileExt` `fileType` `fileExt` `directoryPath` `filePath` `semver` |
-|---|---|
 
 ## Localization
 
